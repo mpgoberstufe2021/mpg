@@ -57,8 +57,9 @@ a:active {
 /* Here come images */
 .ten{
     width: 250px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px grey; 
 }
-
 
 /* Style the content */
 .content {
